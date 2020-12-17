@@ -2,4 +2,5 @@
 
 This repository currently contains two types of solutions that can classify a numeric value to a handwritten digit.
 
-By using the K-Nearest Neighbors classification method and a convolution neural network, I determine the number value of every handwritten digit in a dataset.
+On my first attempt to classify each handwritten number in the dataset, I used a simple K-Nearest Neighbors classification algorithm. From this method I achieved an accuracy of 96.603 %
+
